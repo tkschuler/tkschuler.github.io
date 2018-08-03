@@ -1,1 +1,1 @@
-HTML website for professional Bio. Powered by HTML5 U: https://html5up.net/
+HTML website for professional Bio. Powered by HTML5 UP: https://html5up.net/
